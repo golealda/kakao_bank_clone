@@ -21,7 +21,7 @@ class AccountBalance extends StatelessWidget {
             ),
             const SizedBox(height: 16),
             const Text(
-              '0 원',
+              '1,000,000 원',
               style: TextStyle(
                 fontSize: 32,
                 fontWeight: FontWeight.bold,
